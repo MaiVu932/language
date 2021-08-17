@@ -1,0 +1,5 @@
+function Dog () {
+	
+	dog
+	hi
+}
